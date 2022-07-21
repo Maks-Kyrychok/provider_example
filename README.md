@@ -1,16 +1,8 @@
 # provider_example
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## I used only stateless widgets. When you click the switch, the container changes colour to random.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Gif](https://s4.gifyu.com/images/doc_2022-07-22_00-55-36.gif)
